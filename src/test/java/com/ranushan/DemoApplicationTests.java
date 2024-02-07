@@ -1,4 +1,4 @@
-package com.ranushan.demo;
+package com.ranushan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
